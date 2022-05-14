@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Click [here](home.md) to view my website!
+Click [here](https://wilfrick.github.io/Notes/home.html) to view my website!
 
 You can use the [editor on GitHub](https://github.com/Wilfrick/Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
