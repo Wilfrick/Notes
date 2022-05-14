@@ -1,0 +1,59 @@
+\documentclass{article}
+
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{physics} % for \abs{}
+\usepackage{bm} % for \bm bold text
+\usepackage[hidelinks]{hyperref}
+
+
+\usepackage{graphicx}
+
+\graphicspath{ {./figures/} }
+
+\newcommand{\centring}{\centering}
+
+\DeclareMathOperator{\im}{Im} %Image
+
+\newcommand{\nat}{\mathbb{N}}
+\newcommand{\re}{\mathbb{R}}
+\newcommand{\rat}{\mathbb{Q}} %rationals
+
+\newcommand{\transpose}{\intercal}  %why on earth is this thing called an `intercal'?
+\newcommand{\del}{\partial}
+\newcommand{\Rightleftarrow}{\Leftrightarrow}
+
+\newcommand{\dx}[1][x]{\text{d} #1 }  %usage $\dx$ -> dx, or $\dx[V]$ -> dV
+\newcommand{\ddx}[1][x]{\text{d}^2 #1 } %usage $\ddx$ -> d^2 x or $\ddx[y] -> d^2y
+
+\newcommand{\floor}[1]{\lfloor #1 \rfloor}
+\newcommand{\ceil}[1]{\lceil #1 \rceil}
+
+\theoremstyle{plain}
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{claim}{Claim}[thm]
+\newtheorem{corr}{Corollary}[thm]
+\newtheorem*{thm*}{Theorem}
+\newtheorem*{lem*}{Lemma}
+\newtheorem*{prop*}{Proposition}
+\newtheorem*{claim*}{Claim}
+\newtheorem{corr*}{Corollary}[thm]
+
+
+
+\theoremstyle{definition}
+\newtheorem{defn}{Definition}[subsection]
+\newtheorem*{defn*}{Definition}
+
+\theoremstyle{remark}
+\newtheorem{rem}{Remark}
+\newtheorem*{rem*}{Remark}
+\newtheorem{example}{Example}
+\newtheorem*{example*}{Example}
+\newtheorem{exercise}{Exercise}
+\newtheorem*{exercise*}{Exercise}
+
