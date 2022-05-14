@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Click [here](https://wilfrick.github.io/Notes/home.html) to view my website!
+Click [here](https://wilfrick.github.io/Notes/home.html) to view my website! It doesn't have any formatting to speak of, but that could be changed with _config.yml if desired.
 
 You can use the [editor on GitHub](https://github.com/Wilfrick/Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
