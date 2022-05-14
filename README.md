@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+I have a link to my notes for various courses here: [Algebraic Geometry](example.com)
+[Differential Geometry](example.com)
+[Some other pure course](example.com)
+
 You can use the [editor on GitHub](https://github.com/Wilfrick/Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
