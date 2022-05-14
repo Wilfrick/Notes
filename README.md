@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-I have a link to my notes for various courses here: [Algebraic Geometry](example.com)
-[Differential Geometry](example.com)
-[Some other pure course](example.com)
+Click [here](https://github.com/Wilfrick/Notes/main/home.md) to view my website!
 
 You can use the [editor on GitHub](https://github.com/Wilfrick/Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
